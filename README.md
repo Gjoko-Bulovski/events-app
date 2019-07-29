@@ -1,3 +1,6 @@
+You can see a demo
+https://events-app.netlify.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
